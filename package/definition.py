@@ -1,7 +1,4 @@
 
-# If you haven't read https://sh951011.github.io/Korean-Speech-Recognition/notes/Preparation.html
-# please read it first before setting define.py
-
 DATASET_PATH = "/home/nextgen/Desktop/mjh/325/augmentdata/augment_data/" # set by your data path
 SAMPLE_DATASET_PATH = "./data/sample/"
 TRAIN_LIST_PATH = "./data/data_list/augmentdata_train_list.csv"
