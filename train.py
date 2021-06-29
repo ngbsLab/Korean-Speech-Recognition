@@ -1,6 +1,6 @@
 """
 -*- coding: utf-8 -*-
-
+"""
 
 import queue
 import torch.nn as nn
